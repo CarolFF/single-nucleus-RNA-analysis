@@ -1,0 +1,1 @@
+Codes and data for analyzing the single-nucleus transcriptome sequencing in "GPSM1 loss maintains the CD73+CD103+ Treg subset to promote adipose thermogenesis and counteract metabolic deterioration during obesity".
